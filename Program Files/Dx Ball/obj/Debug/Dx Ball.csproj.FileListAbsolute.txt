@@ -1,0 +1,27 @@
+F:\Dx Ball\Dx Ball\obj\Debug\ResolveAssemblyReference.cache
+F:\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Form1.resources
+F:\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Form2.resources
+F:\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Form3.resources
+F:\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Game.resources
+F:\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Properties.Resources.resources
+F:\Dx Ball\Dx Ball\obj\Debug\Dx Ball.csproj.GenerateResource.Cache
+F:\Dx Ball\Dx Ball\bin\Debug\Dx Ball.exe
+F:\Dx Ball\Dx Ball\bin\Debug\Dx Ball.pdb
+F:\Dx Ball\Dx Ball\bin\Debug\Unit4.dll
+F:\Dx Ball\Dx Ball\obj\Debug\Dx Ball.exe
+F:\Dx Ball\Dx Ball\obj\Debug\Dx Ball.pdb
+C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.exe
+C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.pdb
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\bin\Debug\Dx Ball.exe
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\bin\Debug\Dx Ball.pdb
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\bin\Debug\Unit4.dll
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.csprojAssemblyReference.cache
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Form1.resources
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Form2.resources
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Game.resources
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx_Ball.Properties.Resources.resources
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.csproj.GenerateResource.cache
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.csproj.CoreCompileInputs.cache
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.csproj.CopyComplete
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.exe
+C:\Users\roeibadur\Desktop\רועי\New folder\בדור רועי\בדור רועי - יב\PROGRAM_FILES\Dx Ball\Dx Ball\obj\Debug\Dx Ball.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dx Ball">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Dx Ball.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Dx Ball.suo">
+</Property><Property Name="Date" Value="יום רביעי 13 יוני 2012">
+</Property><Property Name="Time" Value="09:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dx Ball.sln" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Dx Ball.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Dx Ball.suo" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Dx Ball.suo">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Dx Ball.csproj" Description="Project file successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Dx Ball.csproj">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Ball.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Ball.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Board.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Board.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Block.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Block.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form2.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form2.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Game.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Game.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Game.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Game.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Player.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Resources\dx ball.jpg" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Resources\dx ball.jpg">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Resources\dx ball1.jpg" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Resources\dx ball1.jpg">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="bin\Debug\wall1.png" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\bin\Debug\wall1.png">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Form2.resx" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Game.resx" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Game.resx">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\אור קולי\שולחן העבודה\312350671\PROGRAM_FILES\Dx Ball\Dx Ball\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Dx Ball" Source="Dx Ball.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Dx Ball" Source="Dx Ball.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Dx Ball.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dx Ball.sln" Description="Converted">
+</Event></UpgradeLog>
